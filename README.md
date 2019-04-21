@@ -6,7 +6,9 @@
 ## Installation
 ```git clone https://github.com/prpaxson/gary.git
 cd gary
-make gary```
+make gary
+```
 ## Usage
-`gary`
-`gary says`
+``gary
+gary says
+```
