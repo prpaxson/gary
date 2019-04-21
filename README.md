@@ -9,6 +9,6 @@ cd gary
 make gary
 ```
 ## Usage
-``gary
+```gary
 gary says
 ```
