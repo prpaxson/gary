@@ -1,0 +1,293 @@
+#!/bin/sh
+echo '                             `````.-:::://+o+os+:.                              
+                          `.-://++o+++oossosysyyys/-`                           
+                      `.-+syhyyhhhhdhhyhddhhhdddhhyys:..-:---..``               
+                   `-/osyhhhhhdddmmmmmdmmmdddmmmdmddds++o+//////:-`             
+                `-/ossyhhdddhddmmmmNNmmmmmmmmmmmmmmmmdhhyyhhhhyyso/.            
+             `.:syhdhhddddmddmmmdmddhhhddddmmmNNmmmmmNNNNmmmdhhhhyo+-`          
+          `.-+sydmmmmmmddhhyyyssssoooo+ososyhhdmdhhdmmNNNNNmmmmmdhyo+-          
+        `.-/+shmNNNNNdyo+/////////:::::://:/++oooo+osydmNNNNNNNNNmhy+-`         
+        ./ooydmNNNNdo/::---------------.-----::::::://+oydNNNMNNNNdho/-`        
+       `:oshdmNNNmo:-----------..........------------::/+shdNMMNNNmdy+:-`       
+      .:+shdmNNNd/---------...................--------::/+oydNNMMNNmhs+:-`      
+     `-/shmmNNNh/-----...........................------::/+osymNNNNmdys/:`      
+      :oyddmNNy:---...............................------://++ohmNNNNmdyo/.      
+     `/+shmNms:---.................................-----::///ohmNNmmddys+-`     
+     .osydNms:--.................``................-----::::/+ydNNNmdhsyy/-`    
+     :shdmNy:--.....................................-----::::+ohmNNmddhhys/.    
+     :yydmm+-...........................``..........------:::/odmmNmhyddhho:`   
+    `+oymmh/-..........``.............````..........------:::/sdmmmmhdhhdhy+.   
+     /yhdds:............````........```````........--------:/+shdmmmdmdddhhy/   
+    `oyhyy+-....:://:::::--..`...`.`..-::---------.-------::/+shhdmmmNmmddhh/`  
+    `:yyss+-.-osyyyyyyyyss+/-.......-/sssyooooossso/:----:://+yhhdmmNNmmdddy-   
+     .+y/o:--/sssoo+osoo++oo:.......:+oo+osyyyyyyyyyyo:-::://+yyyhmmNNNmmmds.   
+     .+o:/-.-://:::::-::::-:/--...--::-:://:---::///+o/::::/+osyshddmNmmmdd/`   
+      :+:-..--::+ssohdsh+++///-...-//::+o+oso++//:::::::::::/+ssyhyhdmdmdy/`    
+      .+-...--:+o+//+/:::////:---::++:/++::ossyyyyo/----:::://syyhhhyysoh-      
+       -/...------::-----:::::--://+//:::------::++/:----::://syhhs++//:/`      
+       .-..-..-.-.---...--:::--://///::--...-------------:::/+os+/:.::--.       
+        ...-.------------:::--:://::/::------------..----::::/+:--..-:..`       
+        `.-..------------::---::////::------------------:::::/:--...`-.`        
+        `.-----------..----.---::////:.....------:-------::::/..``....`         
+         ..-------...--///----://++/:/:--.....--:::-----:::::/...--..`          
+        `--------.----:+oyso++++++//+/:-----..---::::--::::::/------`           
+        .-------.-::/oydddhys++o+hhyos/:-::::--..--::--::::://-..--.            
+        .-------:oydddmmhhdhhyhdhyhdydyoooooo+/-..---:::::/:::..-:/.            
+        .------+hdmhhhddddhhsysyhyhhymdhdhhhhhh+-----:::://::::/sy:`            
+        `----../s++syyhsoooooo++ososshssossso+s+-..--://////:yhmds`             
+        `----...:::/+syo/..``````..:+oyys+/:-::-..---////+/:/oohy-              
+         .----..-:-:://+++++/////+o++++//:-----..---:://+////--:.               
+          ----..--:-:::/::::::::--::://:-------.----://+////:                   
+          `-:---------:::::::/::::::::--:----------://+//++::                   
+           `::----:---------------------:----:---::/+++/++/:-                   
+            `:::-------:::-::--::-:-----::::::---:/+++++++:::`                  
+             `:::-------:::-------:------:://:::/++++++++:/:::`` ``             
+               -/:::--::::--------------://+///+oo+/++++//////-````             
+               `::////:::/:::::--::-:--:+ooo++o++///+++///////+` ``             
+               `-:::/+++++ooo+++++++++osoo+++//////////:::://:++.``             
+               `--::::////++++++oooooooo/////////:///::::::/::/+-`              
+              ``---:::://///////++++++//:://::::::::/:/:::::/:-``               
+               `-----::::///////+/+//::::::::-----::::::::::-`  ` `             
+'
+gary[0]='Gary "The Transfer Crusher" Gillespie'
+gary[1]='Gary "Caught A Scrub on Github" Gillespie'
+gary[2]='Gary "Bitches Don’t Know About My Wine App" Gillespie'
+gary[3]='Gary "Be Scared If You’re Undeclared" Gillespie'
+gary[4]='Gary "Your Grade On The Final Will Make You Homicidal" Gillespie'
+gary[5]='Gary "Another Pleb Caught in My Web" Gillespie'
+gary[6]='Gary "You Will Be Sore By Homework 4" Gillespie'
+gary[7]='Gary "My HashTable Makes Plebs Disabled" Gillespie'
+gary[8]='Gary "Unloading My Nine At The Scrub Line" Gillespie'
+gary[9]='Gary "Amused If You’re Confused" Gillespie'
+gary[10]='Gary "Weekend Off? Not On My Watch" Gillespie'
+gary[11]='Gary "You Will Regret Stealing Code From The Internet" Gillespie'
+gary[12]='Gary "No Mercy For The Unworthy" Gillespie'
+gary[13]='Gary "I’ll Make You C Even If You’re Blind" Gillespie'
+gary[14]='Gary "No Peace For The Politz Police" Gillespie'
+gary[15]='Gary "I’ll Make You Feel It Was Either Marina Or Argentina" Gillespie'
+gary[16]='Gary "At The Top In My Anime OP" Gillespie'
+gary[17]='Gary "Make Weebs Cream" Gillespie'
+gary[18]='Gary "Rescind An Offer, I’ll Make You Suffer" Gillespie'
+gary[19]='Gary "It Was Announced At The Final Exam, Asshole" Gillespie'
+gary[20]='Gary "Ask A Dumb Question And I’ll Give You Depression" Gillespie'
+gary[21]='Gary "Question Suppression" Gillespie'
+gary[22]='Gary "Nerd Seduction, Grade Reduction, Self-Destruction" Gillespie'
+gary[23]='Gary "Meme Machine, Student Guillotine" Gillespie'
+gary[24]='Gary "CS Dream Downstream" Gillespie'
+gary[25]='Gary "Shoot Tutors Who Turn Down Recruiters" Gillespie'
+gary[26]='Gary "Scrub Club Blown Up" Gillespie'
+gary[27]='Gary "Masta Of The Copypasta" Gillespie'
+gary[28]='Gary "CSE Department Executioner" Gillespie'
+gary[29]='Gary "You’ll wish you were in Heaven by PA 7" Gillespie'
+gary[30]='Gary "Making noobs crack with my Stack" Gillespie'
+gary[31]='Gary "Slave Master of Warren’s Dungeon" Gillespie'
+gary[32]='Gary "0 Percent if you can’t CTRL his D" Gillespie'
+gary[33]='Gary "My binary trees make plebs asses Twinkies" Gillespie'
+gary[34]='Gary "When in doubt and need more clout, CAPE it out" Gillespie'
+gary[35]='Gary "I secretly run 15L so there is no escape from this hell" Gillespie'
+gary[36]='Gary "It’s not a grind until it checks out with Valgrind" Gillespie'
+gary[37]='Gary "Professionalism Cataclysm" Gillespie'
+gary[38]='Gary "The Great Wall Of CS" Gillespie'
+gary[39]='Gary "Moustache" Gillespie'
+gary[40]='Gary "Orphan Killer" Gillespie'
+gary[41]='Gary "Ever Tried Fingering Yourself?" Gillespie'
+
+copypasta[0]='As announced at the final exam,\n
+the grade breakdown will be posted on Piazza early this week.\n
+I also announced that my deadline to submit grades is Tuesday.\n
+Asking about the course graded before the grade deadline is like\n
+me asking for your programming submission before the assignment\n
+deadline. However much the question is asked, however much you want\n
+know the information, however much I want to know the information,\n
+when the information is still unknown, there is no answer to the\n
+question. I’m not in the situation where I know the answer to your\n
+question and am withholding it from you. Reading and responding to\n
+your question about the course grade breakdown before the information\n
+is known just causes the very information you seek to be delayed for\n
+everyone since I’m taking the time to respond to you instead of\n
+continuing with the analysis needed to determine the course grades.\n
+After being at the CSE 12 final exam until after 10pm on Friday night\n
+and after spending all day Saturday grading final exams until after\n
+6pm, any questions about your course grades asked Saturday or Sunday\n
+show no consideration to me or to the course staff in allowing a day\n
+of rest or a reasonable amount of time to pass before expecting the\n
+course grade to be determined. You’ve waited more than 10 weeks to\n
+know your grade in this course. Can’t you wait a few more days before\n
+demonstrating your impatience? Your question is worthy of a professionalism\n
+deduction. Knowing the answer to your question benefits no one, not even\n
+you. Knowing now doesn’t change your grade, and it doesn’t provide insights\n
+into the course content. Specifically, your question is an example of\n
+interactions to avoid such as "asking questions where the information\n
+will eventually be known." At the beginning of the course, we awarded\n
+you 100% for the professionalism portion of your course grade assuming\n
+that all interactions would be professional. Your interaction above\n
+indicates that our initial prediction of your professionalism was\n
+incorrect. I’ve made an adjustment in your score to reflect the error\n
+in our assumptions. If you’d like to explain how your question above\n
+demonstrates consideration, patience, and professionalism, please\n
+let me know.'
+copypasta[1]='When you accept an offer,\n
+the company and its people begin to rely on you, and they become\n
+invested in the positive outcome resulting from that relationship.\n
+Your future actions, whether positive or negative, rub off on those\n
+who stood beside you and this is with UCSD’s reputation with\n
+Microsoft, the CSE Department’s reputation with Microsoft, the CS\n
+Tutors’ reputations with Microsoft, and as a result Rick’s and my\n
+reputation with Microsoft does not shine as brightly due to your\n
+selfish actions. The cost of changing your mind is far from zero.\n
+Responding to a recruiter that no other student has ever had negative\n
+ramifications when choosing to rescind an acceptance is scarring,\n
+shocking, and audacious! Of course, just because you’re unaware of\n
+the negative ramifications doesn’t mean there aren’t any. Drawing\n
+such a conclusion reveals a deep hole in your engineering education\n
+in basic logic. In your situation, your first negative outcome will\n
+be my inability to be a reference in any future endeavor. The prospect\n
+or possibility of a positive relationship with me is over. I can’t\n
+speak for Rick but the consequence of your actions makes it impossible\n
+for him to stand by you either. Any future requests or references, mean\n
+that standing with you would risk damage to our relationships with the\n
+requesters because you’ve shown your commitments to be unreliable and\n
+your words to be meaningless. Of course, you are not welcome in the\n
+future to any tutor recruiting event. This is not punishment, but\n
+rather these are some of the consequences set in motion by anyone who\n
+reneges on an offer. I don’t see a positive path or road through the\n
+scorched earth left in the aftermath of such an action. Your decision\n
+to accept an offer and continue to shop around for better positions is\n
+high-risk behavior not dissimilar to accepting a marriage proposal and\n
+continuing to date others. There are not many people who have the\n
+opportunity to build relationships with companies like Microsoft when\n
+those companies come to UCSD. When you accept then renege, you spit on\n
+all of those involved in the process that led to that offer. A job offer\n
+from the administration demands respect, and reneging on that offer is\n
+responding with disrespect! Telling your recruiter that no student has\n
+ever had negative consequences is like responding to a marriage proposal\n
+by offering a middle finger rather than your ring finger! I don’t know\n
+any of the steps along your decision-making process or any of the\n
+possibilities you were considering, and so all of this comes as a BIG\n
+SURPRISE, and a very big disappointment. You made it harder for Microsoft\n
+to want to come to UCSD, you made it harder for Microsoft to offer any\n
+UCSD student a position, you made it harder for Microsoft to offer any\n
+UCSD tutor a position. You’ve tarnished our reputation through our\n
+association with you, and you should be ashamed. Declining a job due to\n
+content? Really? Did the content of the job change since you’ve accepted\n
+it? Your reason for reneging has no credibility whatsoever. It comes\n
+across as an obvious lie, condescending and discounting the efforts of\n
+everyone you expect will believe it.'
+copypasta[2]='As a matter of principle,\n
+I’m against paying students to complete their CAPE reviews.\n
+I consider the extra credit award, even so small, as such a payment.\n
+It’s not earned, it’s not merit, and so I’m not comfortable with the\n
+idea. I don’t agree when other instructors give students grade benefits\n
+in exchange for their reviews. It took a lot of convincing from the\n
+tutoring staff for me to agree to implement such a suggestion to increase\n
+CAPE participation. I thought of the two extra credit points not as points\n
+themselves, but rather I thought they represented the same as allowing all\n
+students one extra week to complete one lab for full credit. The amount of\n
+points is insignificant, and in looking for any way possible to increase\n
+the CAPE participation, I agreed thinking it could only help.\n\n
+
+The first thought at increasing CAPE participation was to include a\n
+CAPE link in the last lab, but that link was omitted, and its absence\n
+wasn’t noted until after 2/3 of students had been checked off.\n\n
+
+The next thought, which I thought was a really good one, was to give\n
+all students specific time in class to complete their CAPE review.\n
+This would be very much like how CAPE was administered when I was\n
+a student. Since Tuesday was a quiz day when everyone was present,\n
+that would be ideal. This is Fall quarter, and for some students new\n
+to UCSD, they don’t know what CAPE is, and so I could introduce CAPE\n
+and its importance. This seemed perfect, and we’d get 100% participation,\n
+and we could move on. That’s what we did. I saw everyone pull out their\n
+phone and their computer. They were silent for the 5 minutes we spent on\n
+this. When I saw that most people put their phones and computers away,\n
+I thought most were done, I thanked everyone genuinely, and administered\n
+the quiz. Later, when I checked CAPE participation, I was shocked to\n
+see that the review rate was still about 50%. My request was simple,\n
+short, important to me, important to the CSE department, important for\n
+future students, and I was disappointed and puzzled by the results.\n
+When working the class, I am 100% focused on students, their project\n
+and hopes for their futures. I expected that in return for my dedication\n
+to your futures, you’d dedicate 5 minutes to my future.\n\n
+
+Due to the surprising result after witnessing everyone seemingly complete\n
+their reviews, I was back into the position I was earlier of looking for\n
+ways to improve CAPE participation. When the entire tutoring staff\n
+insisted that most other instructors have this practice, without other\n
+options presented, I thought, let’s see if it makes a difference.\n\n
+
+In general, I believe in free will with regard to CAPE reviews. In most\n
+past quarters, I don’t even mention it. You get the emails. You should\n
+give the evaluations. I believe that some students don’t know how much\n
+the faculty is evaluated based on the reviews. In my last CSE 110 class\n
+in Winter 2017, the students gave a lengthy applause at the end of the\n
+course which I appreciated. However, the CAPE reviews were the lowest\n
+I’ve had in any CSE 110 class. When I asked a few students about it, they\n
+said, "oh, you always get good reviews, and so I didn’t bother submitting\n
+one." The CAPE review participation rate became newly important to me due\n
+to being formally evaluated by students who only have strong views rather\n
+than from the class as a whole.\n\n
+
+Now you know a little bit more about the motivations behind my surprising\n
+actions of trying any way I could or any way the tutors could to increase\n
+CAPE review participation. Including the review as part of the last lab\n
+check off really seems to be the best way to raise participation. If you\n
+have a better solution, please let me know.\n\n
+
+Thank you for your words stating your opinion. Thanks for mentioning\n
+professionalism in your response. Being professional is a real aspect\n
+of being successful as you move onward into industry, and so I am pleased\n
+that you are paying attention to an important yet easy to overlook aspect\n
+to building a positive future career.\n\n
+
+Being professional, I shouldn’t have to ask that students complete their\n
+CAPE review. Thinking about its purpose, every student should feel obligated\n
+to complete the review as a way for their voice to be heard and to improve\n
+education for those students in future courses. If that wasn’t enough, then\n
+my request to complete the review should be enough because it’s so easy and\n
+quick. If that wasn’t enough, I made time in class for that specific task\n
+and watched all students with my own eyes performing this task. However,\n
+that wasn’t enough either.\n\n
+
+Unfortunately, it’s a sad situation.'
+copypasta[3]='The course website specifically lists\n
+unprofessional interactions. One of them is:\n\n
+
+"questions asked electronically before first performing electronic search"\n\n
+
+For the question: "When is the midterm exam," was an electronic\n
+search performed first before asking electronically?\n\n
+
+The midterm exam is a significant event in the class, and therefore,\n
+the student asking this question should have correctly assumed that\n
+the information is available on the course website especially since\n
+it’s information every enrolled student needs to know. The\n
+professionalism deduction here is to set an expectation that a student\n
+should search for such information first before asking others.\n\n
+
+The professionalism deduction here is also to acknowledge that a\n
+member of the course staff shouldn’t be spending time to respond to\n
+a question that can be answered so easily by simply looking around.\n\n
+
+UCSD students are incredibly bright, talented, resourceful, capable\n
+(and can be described by many other positive adjectives). Am I wrong\n
+to expect every student to be able to easily determine the date for\n
+a midterm exam for a course in which they are enrolled when that\n
+information was announced in multiple ways? I feel a responsibility\n
+to call out a student who isn’t able to find such information\n
+independently. I do so to raise the expectations of what they should\n
+have for themselves for their own capabilities.'
+
+center()
+{
+  value=$*
+  charcount=${#value}
+  width=$((38 - $((($charcount) / 2 ))))
+  printf "%${width}s $value \n"
+}
+
+rand=$[ $RANDOM % 42 ]
+center ${gary[$rand]}
+if [[ $1 == "says" ]]; then
+  rand=$[ $RANDOM % 4 ]
+  echo ${copypasta[$[rand]]}
+fi
