@@ -1,6 +1,6 @@
 # Gary
-![gary][https://raw.githubusercontent.com/prpaxson/gary/master/gary.png]
-![garysays][https://raw.githubusercontent.com/prpaxson/gary/master/garysays.png]
+![gary](https://raw.githubusercontent.com/prpaxson/gary/master/gary.png)
+![garysays](https://raw.githubusercontent.com/prpaxson/gary/master/garysays.png)
 ## Features
 - 42 Gary nicknames
 - 4 Gary copypastas
