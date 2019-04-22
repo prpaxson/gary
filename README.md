@@ -1,6 +1,4 @@
 # Gary
-![gary](https://raw.githubusercontent.com/prpaxson/gary/master/gary.png)
-![garysays](https://raw.githubusercontent.com/prpaxson/gary/master/garysays.png)
 ## Features
 - 42 Gary nicknames
 - 4 Gary copypastas
@@ -20,3 +18,5 @@ try making an alias in your .bashrc or something:
 gary
 gary says
 ```
+![gary](https://raw.githubusercontent.com/prpaxson/gary/master/gary.png)
+![garysays](https://raw.githubusercontent.com/prpaxson/gary/master/garysays.png)
