@@ -286,7 +286,7 @@ center()
   value=$*
   charcount=${#value}
   width=$((38 - $((($charcount) / 2 ))))
-  printf "%${width}s $value"
+  printf "%${width}s $value \n"
 }
 
 rand=$[ $RANDOM % 42 ]
