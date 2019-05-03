@@ -286,11 +286,11 @@ center()
   value=$*
   charcount=${#value}
   width=$((38 - $((($charcount) / 2 ))))
-  printf "%${width}s $value "
+  printf "%${width}s $value"
 }
 
 rand=$[ $RANDOM % 42 ]
-center ${gary[$rand]}
+center ${gary[ $rand ]}
 if [[ $1 == "says" ]]; then
   rand=$[ $RANDOM % 4 ]
   echo "${copypasta[$[rand]]}"
